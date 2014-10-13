@@ -14,9 +14,9 @@
  *= require_self
  */
 
-td a:hover, a:focus {
+td a:hover,td a:focus {
     color: #000000 !important;
-    background: #ffffff !important;
+    background: #F5F5F5 !important;
     text-decoration: none !important;
 }
 
@@ -25,7 +25,7 @@ td a:hover, a:focus {
 }
 
 .action-btn a {
-    color: #ffffff;
+    color: #ffffff!important;
 }
 
 .page-wrapper {
